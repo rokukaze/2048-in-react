@@ -39,3 +39,5 @@ Just start dev server on [localhost](http://localhost:3000):
 [issues-url]: https://github.com/mateuszsokola/2048-in-react/issues
 [typescript-badge]: https://badges.frapsoft.com/typescript/code/typescript.svg?v=101
 [typescript-url]: https://github.com/microsoft/TypeScript
+
+smol change
